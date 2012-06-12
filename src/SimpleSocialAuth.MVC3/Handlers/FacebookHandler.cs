@@ -6,9 +6,9 @@ using System.Net;
 using System.Web;
 using DotNetOpenAuth.OAuth2;
 using Newtonsoft.Json.Linq;
-using SimpleSocialAuth.MVC3.Consumers;
+using SimpleSocialAuth.MVC4.Consumers;
 
-namespace SimpleSocialAuth.MVC3.Handlers
+namespace SimpleSocialAuth.MVC4.Handlers
 {
   public class FacebookHandler : AbstractAuthHandler
   {

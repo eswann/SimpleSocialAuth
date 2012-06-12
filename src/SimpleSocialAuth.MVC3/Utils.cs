@@ -1,6 +1,6 @@
 ﻿using System.Web;
 
-namespace SimpleSocialAuth.MVC3
+namespace SimpleSocialAuth.MVC4
 {
   public static class Utils
   {

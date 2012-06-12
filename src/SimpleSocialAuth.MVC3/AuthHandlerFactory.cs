@@ -1,7 +1,7 @@
 ﻿using System;
-using SimpleSocialAuth.MVC3.Handlers;
+using SimpleSocialAuth.MVC4.Handlers;
 
-namespace SimpleSocialAuth.MVC3
+namespace SimpleSocialAuth.MVC4
 {
   public class AuthHandlerFactory
   {

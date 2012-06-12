@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using DotNetOpenAuth.OAuth.ChannelElements;
 using DotNetOpenAuth.OAuth.Messages;
 
-namespace SimpleSocialAuth.MVC3.Consumers
+namespace SimpleSocialAuth.MVC4.Consumers
 {
   internal class InMemoryTokenManager : IConsumerTokenManager
   {

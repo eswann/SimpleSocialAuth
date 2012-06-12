@@ -1,7 +1,7 @@
 ﻿using System;
 using DotNetOpenAuth.OAuth2;
 
-namespace SimpleSocialAuth.MVC3.Consumers
+namespace SimpleSocialAuth.MVC4.Consumers
 {
   internal class AuthorizationTracker : IClientAuthorizationTracker
   {

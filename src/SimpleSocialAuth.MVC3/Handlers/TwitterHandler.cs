@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Web;
-using SimpleSocialAuth.MVC3.Consumers;
+using SimpleSocialAuth.MVC4.Consumers;
 
-namespace SimpleSocialAuth.MVC3.Handlers
+namespace SimpleSocialAuth.MVC4.Handlers
 {
   public class TwitterHandler : AbstractAuthHandler
   {
