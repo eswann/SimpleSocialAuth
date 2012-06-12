@@ -10,7 +10,7 @@
     <dependencies>
       <dependency id="HtmlTags" version="1.0.0.54" />
       <dependency id="DotNetOpenAuth" version="[3.5.0.12037-refresh3]" />
-      <dependency id="Newtonsoft.Json" version="4.0.8" />
+      <dependency id="Newtonsoft.Json" version="4.5.0" />
     </dependencies>
     <id>SimpleSocialAuth.MVC3</id>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
